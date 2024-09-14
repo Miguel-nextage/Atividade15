@@ -20,4 +20,5 @@ elif op == "divisão":
     result = N1 / N2
     print(F"Seu resultado é {result}") 
 
-
+else:
+    print("Numero Invalido")
